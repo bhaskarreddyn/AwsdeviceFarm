@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     EditText uname;
-    TextView login;
+    TextView login; // text view
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
