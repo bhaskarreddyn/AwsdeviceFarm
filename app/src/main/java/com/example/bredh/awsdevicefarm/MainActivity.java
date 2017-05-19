@@ -10,7 +10,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
 
-    EditText uname;
+    EditText uname;// edittext
     TextView login; // text view
 
     @Override
